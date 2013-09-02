@@ -1,0 +1,17 @@
+
+  Usage: ypm <options> <command>
+
+  Commands:
+
+    install      安裝 youmeb packages
+    uninstall    移除 youmeb packages
+    list         列出所有安裝的 package 還有他們的相依關係
+    update       更新 packages
+    version      列出所有安裝的 package 版本資訊
+
+  Options:
+
+    --help       輸出本文件
+    --version    輸出版本資訊
+    --verbose    輸出詳細訊息
+    --format     輸出格式
