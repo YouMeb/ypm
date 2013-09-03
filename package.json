@@ -13,7 +13,8 @@
     "async": "~0.2.9",
     "cliox": "~0.0.2",
     "mkdirp": "~0.3.5",
-    "tar": "~0.1.18"
+    "quill-tar": "~0.2.2",
+    "ncp": "~0.4.2"
   },
   "devDependencies": {},
   "scripts": {
